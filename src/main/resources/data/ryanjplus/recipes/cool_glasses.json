@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "i i",
+    "IMI",
+    "i i"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:black_dye"
+    },
+    "M": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "ryanjplus:cool_glasses"
+  },
+  "show_notification": true
+}

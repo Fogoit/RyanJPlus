@@ -2,23 +2,27 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "pattern": [
-    "I#I",
-    "#B#",
-    "I#I"
+    "IPC",
+    "PBP",
+    "CPI"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:string"
+    "C": {
+      "item": "minecraft:raw_copper"
     },
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:raw_iron"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
     },
     "B": {
-      "item": "minecraft:ink_sac"
+      "item": "ryanjplus:cool_glasses"
     }
   },
   "result": {
-    "item": "rdworskymod:ryan_dworsky_block"
+    "item": "rdworskymod:ryan_dworsky_block",
+    "count": 4
   }
 
 }
